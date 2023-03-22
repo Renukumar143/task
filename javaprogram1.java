@@ -13,6 +13,9 @@ public class javaprogram1 {
 		System.out.println("original String :" + a);
 		System.out.println("Reverse :" + b);
 		System.out.println("abc");
+		shjhagssa
+			shgsh
+			
 	}
 
 }
