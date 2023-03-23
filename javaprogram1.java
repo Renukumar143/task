@@ -9,13 +9,4 @@ public class javaprogram1 {
 		for (int i = a.length() - 1; i >= 0; i--) {
 			c = a.charAt(i);euheurre
 			b += c;
-		}
-		System.out.println("original String :" + a);
-		System.out.println("Reverse :" + b);
-		System.out.println("abc");
-		shjhagssa
-			shgsh
-	ujfhu		
-	}
-
-}
+	
