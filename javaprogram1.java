@@ -7,7 +7,7 @@ public class javaprogram1 {
 		String b = "";
 		char c;
 		for (int i = a.length() - 1; i >= 0; i--) {
-			c = a.charAt(i);
+			c = a.charAt(i);euheurre
 			b += c;
 		}
 		System.out.println("original String :" + a);
