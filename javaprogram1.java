@@ -8,5 +8,5 @@ public class javaprogram1 {
 		char c;
 		for (int i = a.length() - 1; i >= 0; i--) {
 			c = a.charAt(i);euheurre
-			b += c;
+			b += c;hghgh
 	
